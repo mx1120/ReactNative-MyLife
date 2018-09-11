@@ -26,7 +26,7 @@ export default class App extends Component<Props> {
 		SplashScreen.show()
 		setTimeout(() => {
 			SplashScreen.hide()
-		}, 1000)
+		}, 1500)
 	}
 	render() {
 		return (
